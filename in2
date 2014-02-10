@@ -1,0 +1,9 @@
+8
+insert bcd
+insert abc
+insert call
+search k
+remove call
+remove bcd
+remove abc
+ptrie
